@@ -11,4 +11,5 @@ print(quote + multi_line_quote)
 test_string = '''
 test
 test
+test
 '''
