@@ -7,3 +7,8 @@ multi_line_quote = ''' just
 like everyone else" '''
 
 print(quote + multi_line_quote)
+
+test_string = '''
+test
+test
+'''
